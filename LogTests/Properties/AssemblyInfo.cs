@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("LogTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("EMP/PTM")]
+[assembly: AssemblyCompany("Coding Seb")]
 [assembly: AssemblyProduct("LogTests")]
-[assembly: AssemblyCopyright("Copyright © EMP/PTM 2018")]
+[assembly: AssemblyCopyright("Copyright © CodingSeb 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
